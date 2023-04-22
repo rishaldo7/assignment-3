@@ -1,0 +1,30 @@
+.fieldset1{
+    padding-left: 30%;
+    padding-right: 30%;
+    color: magenta;
+    background-color: black;
+}
+.fieldset2{
+    padding-left: 30%;
+    padding-right: 30%;
+    color: rgb(255, 102, 0);
+    background-color: rgb(1, 55, 218);
+}
+.fieldset3{
+    padding-left: 30%;
+    padding-right: 30%;
+    background-color: rgb(165, 247, 84);
+}
+.sub_button{
+    background: linear-gradient(rgb(248, 187, 57),rgb(35, 162, 247));
+    border: 2px solid #008CBA;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
